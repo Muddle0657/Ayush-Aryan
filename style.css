@@ -1,0 +1,12 @@
+body{
+    background:red;
+}
+.toparea{
+    background:WHITE;
+    padding:50px 0;
+}
+.toparea h1{
+    text-align: center;
+    color:RED;
+    text-shadow: 1px 1px 1PX BLACK;
+}

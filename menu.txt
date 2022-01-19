@@ -1,0 +1,36 @@
+<a class="dropdown-item" href="#">Academic Ethos</a>
+    					<a class="dropdown-item" href="#">Departments</a>
+    					<a class="dropdown-item" href="#">Results</a>
+    					<a class="dropdown-item" href="#">School Policies</a>
+    					<a class="dropdown-item" href="#">Academic Calendar</a>
+    					<a class="dropdown-item" href="#">School Diary 2020</a>
+    					<a class="dropdown-item" href="#">Career Guide</a>
+    					<a class="dropdown-item" href="#">Committees</a>
+    					<a class="dropdown-item" href="#">Book List</a>
+    					<a class="dropdown-item" href="#">Project Work</a>
+
+
+<a class="dropdown-item" href="#">Admission News</a>
+    					<a class="dropdown-item" href="#">How to Apply</a>
+    					<a class="dropdown-item" href="#">Hostel</a>
+    					<a class="dropdown-item" href="#">Uniform</a>
+    					<a class="dropdown-item" href="#">Rules & Culture</a>
+
+<a class="dropdown-item" href="#">Ethos</a>
+    					<a class="dropdown-item" href="#">Life Skills</a>
+    					<a class="dropdown-item" href="#">Clubs & houses</a>
+    					<a class="dropdown-item" href="#">Social Service</a>
+    					<a class="dropdown-item" href="#">Sports</a>
+    					<a class="dropdown-item" href="#">Trip & Excursions</a>
+
+<a class="dropdown-item" href="#">Library</a>
+    					<a class="dropdown-item" href="#">Math Lab</a>
+    					<a class="dropdown-item" href="#">Science Lab</a>
+    					<a class="dropdown-item" href="#">Gymnasium</a>
+    					<a class="dropdown-item" href="#">Transport</a>
+    					<a class="dropdown-item" href="#">Visual Aproach & Entertainment Zone</a>
+
+<a class="dropdown-item" href="#">Academic</a>
+    					<a class="dropdown-item" href="#">Shining Star – Sports</a>
+    					<a class="dropdown-item" href="#">Art & Culture</a>
+    					<a class="dropdown-item" href="#">Quiz</a>
